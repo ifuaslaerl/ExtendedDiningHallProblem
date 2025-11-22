@@ -1,0 +1,32 @@
+Iniciando jantar com 4 estudantes por 1 iterações...
+Iteração 1: Estudante 1 pegou comida.
+Iteração 1: Estudante 2 pegou comida.
+Iteração 1: Estudante 3 pegou comida.
+Iteração 1: Estudante 4 pegou comida.
+Iteração 1: Estudante 4 pronto para comer. (Prontos: 1, Comendo: 0)
+Iteração 1: Estudante 4 esperando para comer...
+Iteração 1: Estudante 3 pronto para comer. (Prontos: 2, Comendo: 0)
+Iteração 1: Estudante 3 começou a comer. (Prontos: 1, Comendo: 1)
+Iteração 1: Estudante 3 está comendo.
+Iteração 1: Estudante 4 começou a comer. (Prontos: 0, Comendo: 2)
+Iteração 1: Estudante 4 está comendo.
+Iteração 1: Estudante 2 pronto para comer. (Prontos: 1, Comendo: 2)
+Iteração 1: Estudante 2 começou a comer. (Prontos: 0, Comendo: 3)
+Iteração 1: Estudante 2 está comendo.
+Iteração 1: Estudante 1 pronto para comer. (Prontos: 1, Comendo: 3)
+Iteração 1: Estudante 1 começou a comer. (Prontos: 0, Comendo: 4)
+Iteração 1: Estudante 1 está comendo.
+Iteração 1: Estudante 4 terminou de comer. (Saindo: 1, Comendo: 3)
+Iteração 1: Estudante 4 saindo... (Saindo: 0, Comendo: 3)
+Iteração 1: Estudante 4 saiu.
+Iteração 1: Estudante 3 terminou de comer. (Saindo: 1, Comendo: 2)
+Iteração 1: Estudante 3 saindo... (Saindo: 0, Comendo: 2)
+Iteração 1: Estudante 3 saiu.
+Iteração 1: Estudante 2 terminou de comer. (Saindo: 1, Comendo: 1)
+Iteração 1: Estudante 2 esperando para sair... (Saindo: 1, Comendo: 1)
+Iteração 1: Estudante 1 terminou de comer. (Saindo: 2, Comendo: 0)
+Iteração 1: Estudante 1 saindo... (Saindo: 1, Comendo: 0)
+Iteração 1: Estudante 1 saiu.
+Iteração 1: Estudante 2 saindo... (Saindo: 0, Comendo: 0)
+Iteração 1: Estudante 2 saiu.
+Todas as 1 iterações foram concluídas por todos os 4 estudantes.
