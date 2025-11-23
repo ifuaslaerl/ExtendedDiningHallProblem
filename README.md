@@ -1,6 +1,6 @@
 This repository contains a solution for the "Extended Dining Hall Problem". The project implements a thread synchronization system in C, simulating students in a dining hall who must follow strict etiquette rules to avoid eating alone and to ensure no colleague is left alone at the table.
 
-## 📖 About the Project
+## About the Project
 
 The program simulates an environment where multiple students (threads) attempt to eat simultaneously. Synchronization is achieved using the \`pthread\` library (POSIX Threads), ensuring that **deadlocks** and **starvation** do not occur, while strictly adhering to the following rules:
 
@@ -12,14 +12,14 @@ The program simulates an environment where multiple students (threads) attempt t
 - POSIX Threads (pthreads) for concurrency (Mutexes and Condition Variables)
 - Bash Script (for automated testing)
 
-## 📂 Repository Structure
+## Repository Structure
 
 - \`dining_hall.c\`: Main source code containing the thread logic, mutexes, and condition variables.
 - \`makefile\`: Automation file for compiling and running tests.
 - \`stress_test.sh\`: Robust testing script that runs edge cases and random scenarios to validate stability.
 - \`.gitignore\`: Files ignored by Git (binaries and logs).
 
-## 🚀 How to Use
+## How to Use
 
 ### Prerequisites
 You need \`gcc\` and \`make\` installed on your system (Linux/Unix environment).
@@ -45,7 +45,7 @@ Example:
 ./dining_hall 10 5
 ```
 
-## 🧪 Testing
+## Testing
 
 The project includes automated scripts to verify the correctness of the solution and ensure no deadlocks occur.
 
@@ -66,7 +66,7 @@ make stress
 
 Detailed test logs are saved in the \`stress_test_logs/\` directory.
 
-## 🧹 Cleaning
+## Cleaning
 
 To remove compiled files and test logs:
 
@@ -74,10 +74,10 @@ To remove compiled files and test logs:
 make clean
 ```
 
-## 👥 Authors
+## Authors
 
 - **Developer**: [Luís Rafael Sena]
 
-## 📄 License
+## License
 
 This project is for academic/educational use.`
